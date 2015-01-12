@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\BitsExchange\bin\Debug\BitsExchange.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\BitsExchange\bin\Debug\BitsExchange.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\BitsExchange\bin\Debug\BitsExchange.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\BitsExchange\obj\Debug\BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\BitsExchange\obj\Debug\BitsExchange.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\BitsExchange\obj\Debug\BitsExchange.pdb

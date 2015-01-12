@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache

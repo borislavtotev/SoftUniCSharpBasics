@@ -1,0 +1,3 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\NumberComparer\obj\Debug\NumberComparer.pdb

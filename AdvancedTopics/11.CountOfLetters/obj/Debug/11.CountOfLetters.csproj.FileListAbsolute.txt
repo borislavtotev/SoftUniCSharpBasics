@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\11.CountOfLetters\bin\Debug\11.CountOfLetters.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\11.CountOfLetters\obj\Debug\11.CountOfLetters.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\11.CountOfLetters\obj\Debug\11.CountOfLetters.pdb

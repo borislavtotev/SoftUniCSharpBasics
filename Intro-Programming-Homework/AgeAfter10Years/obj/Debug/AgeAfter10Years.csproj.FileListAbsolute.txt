@@ -1,0 +1,5 @@
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

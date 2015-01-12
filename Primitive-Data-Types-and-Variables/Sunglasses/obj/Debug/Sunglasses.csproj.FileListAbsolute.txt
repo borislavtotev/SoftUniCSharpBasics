@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\Sunglasses\bin\Debug\Sunglasses.exe
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\Sunglasses\bin\Debug\Sunglasses.pdb
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\Sunglasses\obj\Debug\Sunglasses.exe
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\Sunglasses\obj\Debug\Sunglasses.pdb

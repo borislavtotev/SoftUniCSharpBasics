@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\MagicStrings\bin\Debug\MagicStrings.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\MagicStrings\bin\Debug\MagicStrings.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\MagicStrings\bin\Debug\MagicStrings.pdb
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\MagicStrings\obj\Debug\16.MagicStrings.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\MagicStrings\obj\Debug\MagicStrings.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\MagicStrings\obj\Debug\MagicStrings.pdb

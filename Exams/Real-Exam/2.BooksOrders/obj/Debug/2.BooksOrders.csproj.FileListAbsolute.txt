@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Exams\Real-Exam\2.BooksOrders\bin\Debug\2.BooksOrders.exe.config
+C:\Users\Galka\Dropbox\Exams\Real-Exam\2.BooksOrders\bin\Debug\2.BooksOrders.exe
+C:\Users\Galka\Dropbox\Exams\Real-Exam\2.BooksOrders\bin\Debug\2.BooksOrders.pdb
+C:\Users\Galka\Dropbox\Exams\Real-Exam\2.BooksOrders\obj\Debug\2.BooksOrders.exe
+C:\Users\Galka\Dropbox\Exams\Real-Exam\2.BooksOrders\obj\Debug\2.BooksOrders.pdb

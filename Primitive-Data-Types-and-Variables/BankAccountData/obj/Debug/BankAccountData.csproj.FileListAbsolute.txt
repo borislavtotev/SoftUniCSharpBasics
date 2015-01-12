@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\BankAccountData\obj\Debug\BankAccountData.pdb

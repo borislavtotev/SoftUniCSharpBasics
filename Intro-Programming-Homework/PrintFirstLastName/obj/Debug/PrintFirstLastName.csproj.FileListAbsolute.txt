@@ -1,0 +1,5 @@
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe.config
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintFirstLastName.pdb
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintFirstLastName\obj\Debug\PrintFirstLastName.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintFirstLastName\obj\Debug\PrintFirstLastName.pdb

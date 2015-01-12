@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddEvenSum\bin\Debug\OddEvenSum.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddEvenSum\bin\Debug\OddEvenSum.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddEvenSum\obj\Debug\OddEvenSum.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddEvenSum\obj\Debug\OddEvenSum.pdb

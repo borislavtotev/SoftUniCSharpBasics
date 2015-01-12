@@ -1,0 +1,5 @@
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

@@ -1,0 +1,5 @@
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

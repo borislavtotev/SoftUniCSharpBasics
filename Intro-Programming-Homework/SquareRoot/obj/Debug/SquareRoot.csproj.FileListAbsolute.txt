@@ -1,0 +1,5 @@
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\1.MelonsWatermelons\bin\Debug\1.MelonsWatermelons.exe.config
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\1.MelonsWatermelons\bin\Debug\1.MelonsWatermelons.exe
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\1.MelonsWatermelons\bin\Debug\1.MelonsWatermelons.pdb
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\1.MelonsWatermelons\obj\Debug\1.MelonsWatermelons.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\1.MelonsWatermelons\obj\Debug\1.MelonsWatermelons.exe
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\1.MelonsWatermelons\obj\Debug\1.MelonsWatermelons.pdb

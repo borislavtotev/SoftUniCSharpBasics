@@ -1,0 +1,3 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

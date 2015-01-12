@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Tables", "1.Tables\1.Tables.csproj", "{EDB657A7-4A79-4F85-AD02-59B9598334B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Car", "3.Car\3.Car.csproj", "{5523FFD1-C3AE-40C0-933F-E748B1A054AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.BooksOrders", "2.BooksOrders\2.BooksOrders.csproj", "{0A2687EE-E477-465C-9F92-653327D88D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.DoubleDowns", "5.DoubleDowns\5.DoubleDowns.csproj", "{794B1D2F-2815-46FC-AA5E-EF795185F4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ChessQueens", "4.ChessQueens\4.ChessQueens.csproj", "{F2F46A28-844B-4EE5-9DA3-B4DD94862C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookOrders1", "BookOrders1\BookOrders1.csproj", "{670B4828-7D6F-4D8B-8FD8-BD0840AAEF49}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://borislavtotev.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 1.Tables\\1.Tables.csproj
+		SccProjectName1 = 1.Tables
+		SccLocalPath1 = 1.Tables
+		SccProjectUniqueName2 = 3.Car\\3.Car.csproj
+		SccProjectName2 = 3.Car
+		SccLocalPath2 = 3.Car
+		SccProjectUniqueName3 = 2.BooksOrders\\2.BooksOrders.csproj
+		SccProjectName3 = 2.BooksOrders
+		SccLocalPath3 = 2.BooksOrders
+		SccProjectUniqueName4 = 5.DoubleDowns\\5.DoubleDowns.csproj
+		SccProjectName4 = 5.DoubleDowns
+		SccLocalPath4 = 5.DoubleDowns
+		SccProjectUniqueName5 = 4.ChessQueens\\4.ChessQueens.csproj
+		SccProjectName5 = 4.ChessQueens
+		SccLocalPath5 = 4.ChessQueens
+		SccProjectUniqueName6 = BookOrders1\\BookOrders1.csproj
+		SccProjectName6 = BookOrders1
+		SccLocalPath6 = BookOrders1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB657A7-4A79-4F85-AD02-59B9598334B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB657A7-4A79-4F85-AD02-59B9598334B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB657A7-4A79-4F85-AD02-59B9598334B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB657A7-4A79-4F85-AD02-59B9598334B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5523FFD1-C3AE-40C0-933F-E748B1A054AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5523FFD1-C3AE-40C0-933F-E748B1A054AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5523FFD1-C3AE-40C0-933F-E748B1A054AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5523FFD1-C3AE-40C0-933F-E748B1A054AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2687EE-E477-465C-9F92-653327D88D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2687EE-E477-465C-9F92-653327D88D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2687EE-E477-465C-9F92-653327D88D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2687EE-E477-465C-9F92-653327D88D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794B1D2F-2815-46FC-AA5E-EF795185F4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794B1D2F-2815-46FC-AA5E-EF795185F4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794B1D2F-2815-46FC-AA5E-EF795185F4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794B1D2F-2815-46FC-AA5E-EF795185F4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F46A28-844B-4EE5-9DA3-B4DD94862C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F46A28-844B-4EE5-9DA3-B4DD94862C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F46A28-844B-4EE5-9DA3-B4DD94862C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F46A28-844B-4EE5-9DA3-B4DD94862C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670B4828-7D6F-4D8B-8FD8-BD0840AAEF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670B4828-7D6F-4D8B-8FD8-BD0840AAEF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670B4828-7D6F-4D8B-8FD8-BD0840AAEF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670B4828-7D6F-4D8B-8FD8-BD0840AAEF49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

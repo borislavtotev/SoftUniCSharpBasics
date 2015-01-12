@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Voleyball\bin\Debug\Voleyball.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Voleyball\bin\Debug\Voleyball.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Voleyball\bin\Debug\Voleyball.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Voleyball\obj\Debug\Voleyball.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Voleyball\obj\Debug\Voleyball.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Voleyball\obj\Debug\Voleyball.pdb

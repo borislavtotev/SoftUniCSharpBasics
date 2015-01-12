@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\17.PerimeterAndAreaPolygon\bin\Debug\17.PerimeterAndAreaPolygon.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\17.PerimeterAndAreaPolygon\bin\Debug\17.PerimeterAndAreaPolygon.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\17.PerimeterAndAreaPolygon\bin\Debug\17.PerimeterAndAreaPolygon.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\17.PerimeterAndAreaPolygon\obj\Debug\17.PerimeterAndAreaPolygon.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\17.PerimeterAndAreaPolygon\obj\Debug\17.PerimeterAndAreaPolygon.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\17.PerimeterAndAreaPolygon\obj\Debug\17.PerimeterAndAreaPolygon.pdb

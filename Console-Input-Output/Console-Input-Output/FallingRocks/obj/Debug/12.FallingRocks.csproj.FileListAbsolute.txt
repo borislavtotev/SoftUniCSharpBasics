@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\FallingRocks\obj\Debug\12.FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\FallingRocks\obj\Debug\FallingRocks.pdb

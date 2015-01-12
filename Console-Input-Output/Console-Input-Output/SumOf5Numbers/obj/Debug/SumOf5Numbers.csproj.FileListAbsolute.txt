@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\SumOf5Numbers\obj\Debug\SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb

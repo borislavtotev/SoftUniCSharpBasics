@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\GravitationOfTheMoon\bin\Debug\GravitationOfTheMoon.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\GravitationOfTheMoon\bin\Debug\GravitationOfTheMoon.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\GravitationOfTheMoon\bin\Debug\GravitationOfTheMoon.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\GravitationOfTheMoon\obj\Debug\GravitationOfTheMoon.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\GravitationOfTheMoon\obj\Debug\GravitationOfTheMoon.pdb

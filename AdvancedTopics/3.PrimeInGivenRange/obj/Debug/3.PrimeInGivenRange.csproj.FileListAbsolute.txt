@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\3.PrimeInGivenRange\bin\Debug\3.PrimeInGivenRange.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\3.PrimeInGivenRange\obj\Debug\3.PrimeInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\3.PrimeInGivenRange\bin\Debug\3.PrimeInGivenRange.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\3.PrimeInGivenRange\bin\Debug\3.PrimeInGivenRange.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\3.PrimeInGivenRange\obj\Debug\3.PrimeInGivenRange.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\3.PrimeInGivenRange\obj\Debug\3.PrimeInGivenRange.pdb

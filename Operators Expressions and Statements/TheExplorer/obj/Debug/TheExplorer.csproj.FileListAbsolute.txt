@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\TheExplorer\bin\Debug\TheExplorer.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\TheExplorer\bin\Debug\TheExplorer.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\TheExplorer\bin\Debug\TheExplorer.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\TheExplorer\obj\Debug\TheExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\TheExplorer\obj\Debug\TheExplorer.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\TheExplorer\obj\Debug\TheExplorer.pdb

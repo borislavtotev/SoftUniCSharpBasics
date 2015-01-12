@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\MagicNumbers\bin\Debug\MagicNumbers.exe.config
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\MagicNumbers\obj\Debug\MagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\MagicNumbers\bin\Debug\MagicNumbers.exe
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\MagicNumbers\bin\Debug\MagicNumbers.pdb
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\MagicNumbers\obj\Debug\MagicNumbers.exe
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\MagicNumbers\obj\Debug\MagicNumbers.pdb

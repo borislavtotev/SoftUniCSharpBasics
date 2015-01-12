@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInsideCircleOutsideOfRectangle\bin\Debug\PointInsideCircleOutsideOfRectangle.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInsideCircleOutsideOfRectangle\bin\Debug\PointInsideCircleOutsideOfRectangle.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInsideCircleOutsideOfRectangle\bin\Debug\PointInsideCircleOutsideOfRectangle.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInsideCircleOutsideOfRectangle\obj\Debug\PointInsideCircleOutsideOfRectangle.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInsideCircleOutsideOfRectangle\obj\Debug\PointInsideCircleOutsideOfRectangle.pdb

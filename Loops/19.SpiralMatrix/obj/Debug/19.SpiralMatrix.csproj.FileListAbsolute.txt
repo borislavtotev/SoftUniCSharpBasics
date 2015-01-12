@@ -1,0 +1,5 @@
+C:\Users\admin\Dropbox\Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+C:\Users\admin\Dropbox\Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+C:\Users\admin\Dropbox\Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+C:\Users\admin\Dropbox\Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+C:\Users\admin\Dropbox\Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb

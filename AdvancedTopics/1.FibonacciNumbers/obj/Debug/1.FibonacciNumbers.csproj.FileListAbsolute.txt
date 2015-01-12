@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\1.FibonacciNumbers\bin\Debug\1.FibonacciNumbers.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\1.FibonacciNumbers\bin\Debug\1.FibonacciNumbers.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\1.FibonacciNumbers\bin\Debug\1.FibonacciNumbers.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\1.FibonacciNumbers\obj\Debug\1.FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\1.FibonacciNumbers\obj\Debug\1.FibonacciNumbers.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\1.FibonacciNumbers\obj\Debug\1.FibonacciNumbers.pdb

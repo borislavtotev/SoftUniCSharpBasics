@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Loops\21.OddEvenElements\bin\Debug\21.OddEvenElements.exe.config
+C:\Users\Galka\Dropbox\Loops\21.OddEvenElements\bin\Debug\21.OddEvenElements.exe
+C:\Users\Galka\Dropbox\Loops\21.OddEvenElements\bin\Debug\21.OddEvenElements.pdb
+C:\Users\Galka\Dropbox\Loops\21.OddEvenElements\obj\Debug\21.OddEvenElements.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Loops\21.OddEvenElements\obj\Debug\21.OddEvenElements.exe
+C:\Users\Galka\Dropbox\Loops\21.OddEvenElements\obj\Debug\21.OddEvenElements.pdb

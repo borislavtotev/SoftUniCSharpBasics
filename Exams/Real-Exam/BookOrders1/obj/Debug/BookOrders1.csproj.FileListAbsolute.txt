@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Exams\Real-Exam\BookOrders1\bin\Debug\BookOrders1.exe.config
+C:\Users\Galka\Dropbox\Exams\Real-Exam\BookOrders1\obj\Debug\BookOrders1.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Exams\Real-Exam\BookOrders1\bin\Debug\BookOrders1.exe
+C:\Users\Galka\Dropbox\Exams\Real-Exam\BookOrders1\bin\Debug\BookOrders1.pdb
+C:\Users\Galka\Dropbox\Exams\Real-Exam\BookOrders1\obj\Debug\BookOrders1.exe
+C:\Users\Galka\Dropbox\Exams\Real-Exam\BookOrders1\obj\Debug\BookOrders1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Loops\24.BitRoller\bin\Debug\24.BitRoller.exe.config
+C:\Users\Galka\Dropbox\Loops\24.BitRoller\bin\Debug\24.BitRoller.exe
+C:\Users\Galka\Dropbox\Loops\24.BitRoller\bin\Debug\24.BitRoller.pdb
+C:\Users\Galka\Dropbox\Loops\24.BitRoller\obj\Debug\24.BitRoller.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Loops\24.BitRoller\obj\Debug\24.BitRoller.exe
+C:\Users\Galka\Dropbox\Loops\24.BitRoller\obj\Debug\24.BitRoller.pdb

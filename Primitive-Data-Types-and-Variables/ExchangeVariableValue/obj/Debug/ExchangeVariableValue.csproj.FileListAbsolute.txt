@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\ExchangeVariableValue\bin\Debug\ExchangeVariableValue.exe.config
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\ExchangeVariableValue\obj\Debug\ExchangeVariableValue.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\ExchangeVariableValue\bin\Debug\ExchangeVariableValue.exe
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\ExchangeVariableValue\bin\Debug\ExchangeVariableValue.pdb
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\ExchangeVariableValue\obj\Debug\ExchangeVariableValue.exe
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\ExchangeVariableValue\obj\Debug\ExchangeVariableValue.pdb

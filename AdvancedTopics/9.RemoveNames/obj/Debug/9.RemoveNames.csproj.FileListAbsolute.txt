@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\9.RemoveNames\bin\Debug\9.RemoveNames.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\9.RemoveNames\bin\Debug\9.RemoveNames.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\9.RemoveNames\bin\Debug\9.RemoveNames.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\9.RemoveNames\obj\Debug\9.RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\9.RemoveNames\obj\Debug\9.RemoveNames.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\9.RemoveNames\obj\Debug\9.RemoveNames.pdb

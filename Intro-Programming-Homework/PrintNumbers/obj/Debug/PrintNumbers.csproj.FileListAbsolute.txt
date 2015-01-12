@@ -1,0 +1,5 @@
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Borislav\Software University\C# Basics\1. Introduction-to-Programming\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInACircle\bin\Debug\PointInACircle.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInACircle\bin\Debug\PointInACircle.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInACircle\bin\Debug\PointInACircle.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInACircle\obj\Debug\PointInACircle.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInACircle\obj\Debug\PointInACircle.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\PointInACircle\obj\Debug\PointInACircle.pdb

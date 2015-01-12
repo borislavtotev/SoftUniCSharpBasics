@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CheckTheBits\bin\Debug\CheckTheBits.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CheckTheBits\bin\Debug\CheckTheBits.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CheckTheBits\bin\Debug\CheckTheBits.pdb
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CheckTheBits\obj\Debug\17.CheckTheBits.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CheckTheBits\obj\Debug\CheckTheBits.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CheckTheBits\obj\Debug\CheckTheBits.pdb

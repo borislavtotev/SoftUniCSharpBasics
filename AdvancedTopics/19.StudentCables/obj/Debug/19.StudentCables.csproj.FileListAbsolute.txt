@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\19.StudentCables\bin\Debug\19.StudentCables.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\19.StudentCables\bin\Debug\19.StudentCables.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\19.StudentCables\bin\Debug\19.StudentCables.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\19.StudentCables\obj\Debug\19.StudentCables.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\19.StudentCables\obj\Debug\19.StudentCables.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\19.StudentCables\obj\Debug\19.StudentCables.pdb

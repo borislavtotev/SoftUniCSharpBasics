@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb

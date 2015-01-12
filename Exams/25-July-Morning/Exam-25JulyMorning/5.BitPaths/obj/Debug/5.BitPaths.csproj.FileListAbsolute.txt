@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Exams\25-July-Morning\Exam-25JulyMorning\5.BitPaths\bin\Debug\5.BitPaths.exe.config
+C:\Users\Galka\Dropbox\Exams\25-July-Morning\Exam-25JulyMorning\5.BitPaths\bin\Debug\5.BitPaths.exe
+C:\Users\Galka\Dropbox\Exams\25-July-Morning\Exam-25JulyMorning\5.BitPaths\bin\Debug\5.BitPaths.pdb
+C:\Users\Galka\Dropbox\Exams\25-July-Morning\Exam-25JulyMorning\5.BitPaths\obj\Debug\5.BitPaths.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Exams\25-July-Morning\Exam-25JulyMorning\5.BitPaths\obj\Debug\5.BitPaths.exe
+C:\Users\Galka\Dropbox\Exams\25-July-Morning\Exam-25JulyMorning\5.BitPaths\obj\Debug\5.BitPaths.pdb

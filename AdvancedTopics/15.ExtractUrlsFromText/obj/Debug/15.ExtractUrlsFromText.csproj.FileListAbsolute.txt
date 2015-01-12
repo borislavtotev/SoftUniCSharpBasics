@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\15.ExtractUrlsFromText\bin\Debug\15.ExtractUrlsFromText.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\15.ExtractUrlsFromText\bin\Debug\15.ExtractUrlsFromText.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\15.ExtractUrlsFromText\bin\Debug\15.ExtractUrlsFromText.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\15.ExtractUrlsFromText\obj\Debug\15.ExtractUrlsFromText.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\15.ExtractUrlsFromText\obj\Debug\15.ExtractUrlsFromText.pdb

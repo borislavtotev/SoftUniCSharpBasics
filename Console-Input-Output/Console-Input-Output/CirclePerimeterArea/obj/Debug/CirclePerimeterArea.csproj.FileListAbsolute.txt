@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.pdb
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.pdb

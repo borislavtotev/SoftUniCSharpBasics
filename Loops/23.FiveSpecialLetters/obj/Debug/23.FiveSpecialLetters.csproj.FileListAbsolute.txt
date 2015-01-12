@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Loops\23.FiveSpecialLetters\bin\Debug\23.FiveSpecialLetters.exe.config
+C:\Users\Galka\Dropbox\Loops\23.FiveSpecialLetters\bin\Debug\23.FiveSpecialLetters.exe
+C:\Users\Galka\Dropbox\Loops\23.FiveSpecialLetters\bin\Debug\23.FiveSpecialLetters.pdb
+C:\Users\Galka\Dropbox\Loops\23.FiveSpecialLetters\obj\Debug\23.FiveSpecialLetters.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Loops\23.FiveSpecialLetters\obj\Debug\23.FiveSpecialLetters.exe
+C:\Users\Galka\Dropbox\Loops\23.FiveSpecialLetters\obj\Debug\23.FiveSpecialLetters.pdb

@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb

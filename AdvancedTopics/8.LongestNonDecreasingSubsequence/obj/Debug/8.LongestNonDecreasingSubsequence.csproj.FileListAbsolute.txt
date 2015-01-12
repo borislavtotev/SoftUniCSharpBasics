@@ -1,0 +1,1 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\8.LongestNonDecreasingSubsequence\bin\Debug\8.LongestNonDecreasingSubsequence.exe.config

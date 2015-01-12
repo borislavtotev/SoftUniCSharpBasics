@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\20.ProgrammerDNA\bin\Debug\20.ProgrammerDNA.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\20.ProgrammerDNA\obj\Debug\20.ProgrammerDNA.pdb

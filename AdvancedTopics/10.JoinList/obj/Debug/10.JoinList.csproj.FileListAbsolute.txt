@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\10.JoinList\bin\Debug\10.JoinList.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\10.JoinList\bin\Debug\10.JoinList.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\10.JoinList\bin\Debug\10.JoinList.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\10.JoinList\obj\Debug\10.JoinList.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\10.JoinList\obj\Debug\10.JoinList.pdb

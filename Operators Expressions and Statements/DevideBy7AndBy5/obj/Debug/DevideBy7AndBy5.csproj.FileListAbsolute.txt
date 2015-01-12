@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\DevideBy7AndBy5\bin\Debug\DevideBy7AndBy5.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\DevideBy7AndBy5\bin\Debug\DevideBy7AndBy5.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\DevideBy7AndBy5\bin\Debug\DevideBy7AndBy5.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\DevideBy7AndBy5\obj\Debug\DevideBy7AndBy5.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\DevideBy7AndBy5\obj\Debug\DevideBy7AndBy5.pdb

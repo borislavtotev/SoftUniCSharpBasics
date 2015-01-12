@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\6.LongestAreaInArray\bin\Debug\6.LongestAreaInArray.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\6.LongestAreaInArray\bin\Debug\6.LongestAreaInArray.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\6.LongestAreaInArray\bin\Debug\6.LongestAreaInArray.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\6.LongestAreaInArray\obj\Debug\6.LongestAreaInArray.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\6.LongestAreaInArray\obj\Debug\6.LongestAreaInArray.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\6.LongestAreaInArray\obj\Debug\6.LongestAreaInArray.pdb

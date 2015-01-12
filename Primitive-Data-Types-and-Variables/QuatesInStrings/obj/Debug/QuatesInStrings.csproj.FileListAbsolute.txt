@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\QuatesInStrings\bin\Debug\QuatesInStrings.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\QuatesInStrings\bin\Debug\QuatesInStrings.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\QuatesInStrings\bin\Debug\QuatesInStrings.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\QuatesInStrings\obj\Debug\QuatesInStrings.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\QuatesInStrings\obj\Debug\QuatesInStrings.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Workspace\Primitive-Data-Types-and-Variables\QuatesInStrings\obj\Debug\QuatesInStrings.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\QuatesInStrings\bin\Debug\QuatesInStrings.exe.config
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\QuatesInStrings\obj\Debug\QuatesInStrings.exe
+C:\Users\Galka\Dropbox\Primitive-Data-Types-and-Variables\QuatesInStrings\obj\Debug\QuatesInStrings.pdb

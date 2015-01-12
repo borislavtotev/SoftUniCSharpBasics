@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\7.MatrixOfPalindromes\bin\Debug\7.MatrixOfPalindromes.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\7.MatrixOfPalindromes\bin\Debug\7.MatrixOfPalindromes.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\7.MatrixOfPalindromes\bin\Debug\7.MatrixOfPalindromes.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\7.MatrixOfPalindromes\obj\Debug\7.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\7.MatrixOfPalindromes\obj\Debug\7.MatrixOfPalindromes.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\7.MatrixOfPalindromes\obj\Debug\7.MatrixOfPalindromes.pdb

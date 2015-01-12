@@ -1,0 +1,3 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

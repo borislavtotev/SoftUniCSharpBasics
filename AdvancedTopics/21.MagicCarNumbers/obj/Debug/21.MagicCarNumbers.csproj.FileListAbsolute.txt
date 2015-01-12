@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\21.MagicCarNumbers\bin\Debug\21.MagicCarNumbers.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\21.MagicCarNumbers\bin\Debug\21.MagicCarNumbers.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\21.MagicCarNumbers\bin\Debug\21.MagicCarNumbers.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\21.MagicCarNumbers\obj\Debug\21.MagicCarNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\21.MagicCarNumbers\obj\Debug\21.MagicCarNumbers.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\21.MagicCarNumbers\obj\Debug\21.MagicCarNumbers.pdb

@@ -1,0 +1,3 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\SumOfNNumbers\obj\Debug\SumOfNNumbers.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\SumOfNNumbers\obj\Debug\SumOfNNumbers.pdb

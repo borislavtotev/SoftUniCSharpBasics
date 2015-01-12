@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.pdb

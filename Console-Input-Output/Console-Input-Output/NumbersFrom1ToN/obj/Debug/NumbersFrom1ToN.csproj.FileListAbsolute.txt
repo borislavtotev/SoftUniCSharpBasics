@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

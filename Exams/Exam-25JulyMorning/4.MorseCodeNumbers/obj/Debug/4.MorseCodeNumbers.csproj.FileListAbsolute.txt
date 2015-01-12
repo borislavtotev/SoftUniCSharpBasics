@@ -1,0 +1,6 @@
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.exe.config
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.exe
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.pdb
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.exe
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.pdb
+C:\Users\admin\Dropbox\Exams\Exam-25JulyMorning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.csprojResolveAssemblyReference.cache

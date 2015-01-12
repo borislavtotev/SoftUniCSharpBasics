@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\4.DifferenceBetweenDates\bin\Debug\4.DifferenceBetweenDates.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\4.DifferenceBetweenDates\bin\Debug\4.DifferenceBetweenDates.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\4.DifferenceBetweenDates\bin\Debug\4.DifferenceBetweenDates.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\4.DifferenceBetweenDates\obj\Debug\4.DifferenceBetweenDates.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\4.DifferenceBetweenDates\obj\Debug\4.DifferenceBetweenDates.pdb

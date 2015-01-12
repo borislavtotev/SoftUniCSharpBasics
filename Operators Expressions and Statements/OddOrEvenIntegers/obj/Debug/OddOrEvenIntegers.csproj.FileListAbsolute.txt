@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

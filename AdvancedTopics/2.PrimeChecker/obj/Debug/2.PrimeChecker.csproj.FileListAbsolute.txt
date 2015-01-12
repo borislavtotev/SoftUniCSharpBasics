@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\2.PrimeChecker\bin\Debug\2.PrimeChecker.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\2.PrimeChecker\bin\Debug\2.PrimeChecker.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\2.PrimeChecker\bin\Debug\2.PrimeChecker.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\2.PrimeChecker\obj\Debug\2.PrimeChecker.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\2.PrimeChecker\obj\Debug\2.PrimeChecker.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\2.PrimeChecker\obj\Debug\2.PrimeChecker.pdb

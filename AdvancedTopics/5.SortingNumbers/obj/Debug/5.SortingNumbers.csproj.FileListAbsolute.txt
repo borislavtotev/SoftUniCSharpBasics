@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\5.SortingNumbers\bin\Debug\5.SortingNumbers.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\5.SortingNumbers\bin\Debug\5.SortingNumbers.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\5.SortingNumbers\bin\Debug\5.SortingNumbers.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\5.SortingNumbers\obj\Debug\5.SortingNumbers.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\5.SortingNumbers\obj\Debug\5.SortingNumbers.pdb

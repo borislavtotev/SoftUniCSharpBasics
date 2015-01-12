@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\18.InsideBuilding\bin\Debug\18.InsideBuilding.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\18.InsideBuilding\bin\Debug\18.InsideBuilding.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\18.InsideBuilding\bin\Debug\18.InsideBuilding.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\18.InsideBuilding\obj\Debug\18.InsideBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\AdvancedTopics\18.InsideBuilding\obj\Debug\18.InsideBuilding.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\18.InsideBuilding\obj\Debug\18.InsideBuilding.pdb

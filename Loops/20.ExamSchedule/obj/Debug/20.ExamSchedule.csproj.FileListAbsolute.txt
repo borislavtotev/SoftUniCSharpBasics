@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Loops\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe.config
+C:\Users\Galka\Dropbox\Loops\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe
+C:\Users\Galka\Dropbox\Loops\20.ExamSchedule\bin\Debug\20.ExamSchedule.pdb
+C:\Users\Galka\Dropbox\Loops\20.ExamSchedule\obj\Debug\20.ExamSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Loops\20.ExamSchedule\obj\Debug\20.ExamSchedule.exe
+C:\Users\Galka\Dropbox\Loops\20.ExamSchedule\obj\Debug\20.ExamSchedule.pdb

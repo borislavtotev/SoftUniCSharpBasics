@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\AdvancedTopics\16.CountingWordInText\bin\Debug\16.CountingWordInText.exe.config
+C:\Users\Galka\Dropbox\AdvancedTopics\16.CountingWordInText\bin\Debug\16.CountingWordInText.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\16.CountingWordInText\bin\Debug\16.CountingWordInText.pdb
+C:\Users\Galka\Dropbox\AdvancedTopics\16.CountingWordInText\obj\Debug\16.CountingWordInText.exe
+C:\Users\Galka\Dropbox\AdvancedTopics\16.CountingWordInText\obj\Debug\16.CountingWordInText.pdb

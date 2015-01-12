@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Four-DigitNumber\bin\Debug\Four-DigitNumber.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Four-DigitNumber\bin\Debug\Four-DigitNumber.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Four-DigitNumber\bin\Debug\Four-DigitNumber.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Four-DigitNumber\obj\Debug\Four-DigitNumber.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Four-DigitNumber\obj\Debug\Four-DigitNumber.pdb

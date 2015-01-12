@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Exams\Real-Exam\4.ChessQueens\bin\Debug\4.ChessQueens.exe.config
+C:\Users\Galka\Dropbox\Exams\Real-Exam\4.ChessQueens\bin\Debug\4.ChessQueens.exe
+C:\Users\Galka\Dropbox\Exams\Real-Exam\4.ChessQueens\bin\Debug\4.ChessQueens.pdb
+C:\Users\Galka\Dropbox\Exams\Real-Exam\4.ChessQueens\obj\Debug\4.ChessQueens.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Exams\Real-Exam\4.ChessQueens\obj\Debug\4.ChessQueens.exe
+C:\Users\Galka\Dropbox\Exams\Real-Exam\4.ChessQueens\obj\Debug\4.ChessQueens.pdb

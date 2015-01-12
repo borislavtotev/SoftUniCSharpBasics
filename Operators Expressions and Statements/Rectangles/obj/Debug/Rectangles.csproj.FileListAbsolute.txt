@@ -1,0 +1,5 @@
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Galka\Dropbox\Operators Expressions and Statements\Rectangles\obj\Debug\Rectangles.pdb

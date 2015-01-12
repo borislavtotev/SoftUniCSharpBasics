@@ -1,0 +1,6 @@
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Users\Galka\Dropbox\Console-Input-Output\Console-Input-Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
